@@ -1,0 +1,1 @@
+# An Introduction to Design Patterns in C++ with Qt<sup>TM</sup>, 2nd Edition
