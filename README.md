@@ -1,4 +1,4 @@
-### An Introduction to Design Patterns in C++ with Qt<sup>TM</sup>, 2nd Edition
+##### An Introduction to Design Patterns in C++ with Qt<sup>TM</sup>, 2nd Edition
 
 * Part I: Design Patterns and Qt 4
     - Chapter 1: C++ Introduction
@@ -20,4 +20,9 @@
     - Chapter 17: Concurrency
     - Chapter 18: Database Programming
 * Part II: C++ Language Reference
+    - Chapter 19: Types and Expressions
+    - Chapter 20: Scope and Storage Class
+    - Chapter 21: Memory Access
+    - Chapter 22: Inheritance in Detail
 * Part III: Programming Assignments
+    - Chapter 23: MP3 Jukebox Assignments
