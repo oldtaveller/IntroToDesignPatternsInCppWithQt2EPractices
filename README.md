@@ -1,7 +1,9 @@
 ### Intro to Design Patterns in C++ with Qt<sup>TM</sup>, 2nd Edition Practices
+
 Resources:
 * [Website](http://www.ics.com/design-patterns)
 * [Sourcecode](http://www.ics.com/designpatterns/dist/index.html) from examples in the book
+
 ----------------------
 * Part I: Design Patterns and Qt 4
     - Chapter 1: C++ Introduction
