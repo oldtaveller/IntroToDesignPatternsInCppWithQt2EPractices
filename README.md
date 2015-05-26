@@ -14,15 +14,15 @@ Resources:
         - 1.4 Standard Input and Output
             - EXAMPLE 1.2 [src/iostream/io.cpp](src/iostream/io.cpp) P9
             - 1.4.1 Exercises P10
-                1. `none`
-                2.  [exercises/e1.4.1.2.cpp](exercises/e1.4.1.2.cpp)
+                - 1. `none`
+                - 2.  [exercises/e1.4.1.2.cpp](exercises/e1.4.1.2.cpp)
         - 1.5 Introduction to Functions
             - EXAMPLE 1.3 [src/early-examples/fac2.cpp](src/early-examples/fac2.cpp) P12
             - EXAMPLE 1.4 [src/functions/overload-not.cpp](src/functions/overload-not.cpp) P15
             - EXAMPLE 1.5 [src/functions/overload.cpp](src/functions/overload.cpp) P16
             - 1.5.1 Exercises P17
-                1. [exercises/e1.5.1.1.cpp](exercises/e1.5.1.1.cpp)
-                2. [exercises/e1.5.1.2.cpp](exercises/e1.5.1.2.cpp)
+                - 1. [exercises/e1.5.1.1.cpp](exercises/e1.5.1.1.cpp)
+                - 2. [exercises/e1.5.1.2.cpp](exercises/e1.5.1.2.cpp) *TODO*
         - 1.6 qmake, Project Files, and Makefile
             - EXAMPLE 1.6 [src/common.pri](src/common.pri) P21
         - 1.7 Getting Help Online
@@ -32,6 +32,11 @@ Resources:
         - 1.9 Streams
             - EXAMPLE 1.9 [src/stdstreams/streamdemo.cpp](src/stdstreams/streamdemo.cpp) P27
             - EXAMPLE 1.10 [src/qtstreams/qtstreamdemo.cpp](src/qtstreams/qtstreamdemo.cpp) P28
+        - 1.10 File Streams
+            - EXAMPLE 1.11 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P29
+            - EXAMPLE 1.12 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P30
+            - EXAMPLE 1.13 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P31
+            - EXAMPLE 1.14 [src/qtstreams/files/qdemo.cpp](src/qtstreams/files/qdemo.cpp) P31
     - Chapter 2: Top of the class
     - Chapter 3: Introduction to Qt
     - Chapter 4: Lists
