@@ -52,6 +52,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Qt intermediate files
+Makefile.Debug
+Makefile.Release
+Makefile
+
+
 # Windows
 # =========================
 
