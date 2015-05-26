@@ -2,6 +2,10 @@
 ----------------------
 * Part I: Design Patterns and Qt 4
     - Chapter 1: C++ Introduction
+        - 1.1 Overview of C++
+        - 1.2 A Brief History of C++
+        - 1.3 C++ First Example
+            - EXAMPLE 1.1 [src/early-examples/example0/fac.cpp](src/early-examples/example0/fac.cpp)
     - Chapter 2: Top of the class
     - Chapter 3: Introduction to Qt
     - Chapter 4: Lists
