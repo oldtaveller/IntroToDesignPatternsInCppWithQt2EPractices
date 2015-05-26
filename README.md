@@ -14,8 +14,11 @@ Resources:
         - 1.4 Standard Input and Output
             - EXAMPLE 1.2 [src/iostream/io.cpp](src/iostream/io.cpp) P9
             - 1.4.1 Exercises: Standard Input and Output
-                - 1.
-                - 2. 
+                - 1. `none`
+                - 2.  [exercises/e1.4.1.2.cpp](exercises/e1.4.1.2.cpp)
+        - 1.5 Introduction to Functions
+            - EXAMPLE 1.3 [src/early-examples/fac2.cpp](src/early-examples/fac2.cpp) P12
+            - EXAMPLE 1.4 [src/functions/overload-not.cpp](src/functions/overload-not.cpp) P15
     - Chapter 2: Top of the class
     - Chapter 3: Introduction to Qt
     - Chapter 4: Lists
