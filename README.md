@@ -22,7 +22,7 @@ Resources:
             - EXAMPLE 1.5 [src/functions/overload.cpp](src/functions/overload.cpp) P16
             - 1.5.1 Exercises P17
                 - 1. [exercises/e1.5.1.1.cpp](exercises/e1.5.1.1.cpp)
-                - 2. [exercises/e1.5.1.2.cpp](exercises/e1.5.1.2.cpp) *TODO*
+                - 2. [exercises/e1.5.1.2.cpp](exercises/e1.5.1.2.cpp) **TODO**
         - 1.6 qmake, Project Files, and Makefile
             - EXAMPLE 1.6 [src/common.pri](src/common.pri) P21
         - 1.7 Getting Help Online
@@ -37,6 +37,17 @@ Resources:
             - EXAMPLE 1.12 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P30
             - EXAMPLE 1.13 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P31
             - EXAMPLE 1.14 [src/qtstreams/files/qdemo.cpp](src/qtstreams/files/qdemo.cpp) P31
+            - 1.10.1 Exercises P33
+                - 1. **TODO**
+                - 2. __TODO__
+        - 1.11 Qt Dialogs for User Input/Output
+            - EXAMPLE 1.15 [src/early-examples/example1/fac1.cpp](src/early-examples/example1/fac1.cpp) P34
+            - EXAMPLE 1.16 [src/early-examples/example1/example1.pro](src/early-examples/example1/example1.pro) P36
+            - 1.11.1 Exercises P37
+                - 1. **TODO**
+                - 2. **TODO**
+        - 1.12 Identifiers, Types, and Literals
+            - EXAMPLE 1.17 [src/early-examples/literals/qliterals.cpp](src/early-examples/literals/qliterals.cpp) P38
     - Chapter 2: Top of the class
     - Chapter 3: Introduction to Qt
     - Chapter 4: Lists

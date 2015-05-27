@@ -67,7 +67,7 @@ int main()
         inf.close();
     }
 
-    // Example 1.13
+    // ---- Example 1.13
     std::cout << "Read from file line-by-line" << std::endl;
     inf.open("mydata");
     if (inf) {
