@@ -74,5 +74,7 @@ int main()
         data.close();
     }
     
+    QFile::remove("mydata");
+    
     return 0;
 }
