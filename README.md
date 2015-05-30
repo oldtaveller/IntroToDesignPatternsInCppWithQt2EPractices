@@ -44,8 +44,8 @@ Resources:
             - EXAMPLE 1.15 [src/early-examples/example1/fac1.cpp](src/early-examples/example1/fac1.cpp) P34
             - EXAMPLE 1.16 [src/early-examples/example1/example1.pro](src/early-examples/example1/example1.pro) P36
             - 1.11.1 Exercises P37
-                - 1. []()
-                - 2. []()
+                - 1. [exercises/ch01/e1.11.1.cpp](exercises/ch01/e1.11.1.cpp)
+                - 2. [exercises/ch01/e1.11.1.cpp](exercises/ch01/e1.11.1.cpp)
         - 1.12 Identifiers, Types, and Literals
             - EXAMPLE 1.17 [src/early-examples/literals/qliterals.cpp](src/early-examples/literals/qliterals.cpp) P38
     - Chapter 2: Top of the class
