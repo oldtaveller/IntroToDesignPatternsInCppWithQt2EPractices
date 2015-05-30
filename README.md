@@ -38,14 +38,14 @@ Resources:
             - EXAMPLE 1.13 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P31
             - EXAMPLE 1.14 [src/qtstreams/files/qdemo.cpp](src/qtstreams/files/qdemo.cpp) P31
             - 1.10.1 Exercises P33
-                - 1. **TODO**
-                - 2. __TODO__
+                - 1. [exercises/ch01/e1.10.1.1.cpp](exercises/ch01/e1.10.1.1.cpp)
+                - 2. [exercises/ch01/e1.10.1.2.cpp](exercises/ch01/e1.10.1.2.cpp)
         - 1.11 Qt Dialogs for User Input/Output
             - EXAMPLE 1.15 [src/early-examples/example1/fac1.cpp](src/early-examples/example1/fac1.cpp) P34
             - EXAMPLE 1.16 [src/early-examples/example1/example1.pro](src/early-examples/example1/example1.pro) P36
             - 1.11.1 Exercises P37
-                - 1. **TODO**
-                - 2. **TODO**
+                - 1. []()
+                - 2. []()
         - 1.12 Identifiers, Types, and Literals
             - EXAMPLE 1.17 [src/early-examples/literals/qliterals.cpp](src/early-examples/literals/qliterals.cpp) P38
     - Chapter 2: Top of the class
