@@ -1,5 +1,7 @@
 // 2015-05-16T22:53+08:00
 // P5: Example 1.1
+// qmake -project -o fac.pro -after "CONFIG += console"
+// qmake -project "CONFIG += console" -o fac.pro
 
 /* Computes and prints n! for a given n.
  * Uses several basic elements of C++.

@@ -33,9 +33,7 @@ Resources:
             - EXAMPLE 1.9 [src/stdstreams/streamdemo.cpp](src/stdstreams/streamdemo.cpp) P27
             - EXAMPLE 1.10 [src/qtstreams/qtstreamdemo.cpp](src/qtstreams/qtstreamdemo.cpp) P28
         - 1.10 File Streams
-            - EXAMPLE 1.11 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P29
-            - EXAMPLE 1.12 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P30
-            - EXAMPLE 1.13 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P31
+            - EXAMPLE 1.11, 1.12, 1.13 [src/stl/streams/streams.cpp](src/stl/streams/streams.cpp) P29, P30, P31
             - EXAMPLE 1.14 [src/qtstreams/files/qdemo.cpp](src/qtstreams/files/qdemo.cpp) P31
             - 1.10.1 Exercises P33
                 - 1. [exercises/ch01/e1.10.1.1.cpp](exercises/ch01/e1.10.1.1.cpp)
@@ -48,6 +46,16 @@ Resources:
                 - 2. [exercises/ch01/e1.11.1.cpp](exercises/ch01/e1.11.1.cpp)
         - 1.12 Identifiers, Types, and Literals
             - EXAMPLE 1.17 [src/early-examples/literals/qliterals.cpp](src/early-examples/literals/qliterals.cpp) P38
+            - 1.12.1 Exercises P39
+                - 1. [exercises/ch01/e1.12.1.1.cpp](exercises/ch01/e1.12.1.1.cpp)
+                - 2. [exercises/ch01/e1.12.1.2.cpp](exercises/ch01/e1.12.1.2.cpp)
+        - 1.13 C++ Simple Types
+            - EXAMPLE 1.18 [src/early-examples/size/qsize.cpp](src/early-examples/size/qsize.cpp) P41
+            - 1.13.1 main and Command-Line Arguments
+                - EXAMPLE 1.19 [src/clargs/clargs-iostream/clargs.cpp](src/clargs/clargs-iostream/clargs.cpp) P43
+                - EXAMPLE 1.20 [src/clargs/qt/clargs.cpp](src/clargs/qt/clargs.cpp) P45
+            - 1.13.2 Arithmetic
+                - EXAMPLE 1.21, 1.22, 1.23, 1.24, 1.25, 1.26 [src/arithmetic/arithmetic.cpp](src/arithmetic/arithmetic.cpp) P47, P47, P48, P48, P49, P49
     - Chapter 2: Top of the class
     - Chapter 3: Introduction to Qt
     - Chapter 4: Lists
